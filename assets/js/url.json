@@ -1,0 +1,77 @@
+{
+  "imgs": [
+    {
+      "id": 0,
+      "css": "wonder-woman"
+    },
+    {
+      "id": 1,
+      "css": "super-man"
+    },
+    {
+      "id": 2,
+      "css": "police-man"
+    },
+    {
+      "id": 3,
+      "css": "queen"
+    },
+    {
+      "id": 4,
+      "css": "speaker"
+    },
+    {
+      "id": 5,
+      "css": "police-woman"
+    },
+    {
+      "id": 6,
+      "css": "boy"
+    },
+    {
+      "id": 7,
+      "css": "assistant"
+    },
+    {
+      "id": 8,
+      "css": "chef"
+    },
+    {
+      "id": 9,
+      "css": "doctor"
+    },
+    {
+      "id": 10,
+      "css": "girl"
+    },
+    {
+      "id": 11,
+      "css": "worker"
+    }
+  ,
+    {
+      "id": 12,
+      "css": "woman"
+    }
+  ,
+    {
+      "id": 13,
+      "css": "spy"
+    }
+  ,
+    {
+      "id": 14,
+      "css": "woen"
+    }
+  ,
+    {
+      "id": 15,
+      "css": "king"
+    }
+  ,
+    {
+      "id": 16,
+      "css": "gentleman"
+    }
+  ]
+}
